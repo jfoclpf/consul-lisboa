@@ -8,7 +8,7 @@
 
 # CONSUL
 
-Citizen Participation and Open Government Application
+Citizen Participation and Open Government Application for Lisbon
 
 [![Build Status](https://travis-ci.com/consul/consul.svg?branch=master)](https://travis-ci.com/consul/consul)
 [![Code Climate](https://codeclimate.com/github/consul/consul/badges/gpa.svg)](https://codeclimate.com/github/consul/consul)
